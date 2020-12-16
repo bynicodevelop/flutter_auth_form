@@ -1,0 +1,28 @@
+PODS:
+  - Flutter (1.0.0)
+  - flutter_auth_form (0.0.1):
+    - Flutter
+  - flutter_inputs (0.0.1):
+    - Flutter
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - flutter_auth_form (from `.symlinks/plugins/flutter_auth_form/ios`)
+  - flutter_inputs (from `.symlinks/plugins/flutter_inputs/ios`)
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  flutter_auth_form:
+    :path: ".symlinks/plugins/flutter_auth_form/ios"
+  flutter_inputs:
+    :path: ".symlinks/plugins/flutter_inputs/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
+  flutter_auth_form: 36aa8caea224f9690744bb83b302d5d4ebe42ee3
+  flutter_inputs: f1e2ad9e795af05a2d51f4900f4590869e1b99fd
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.9.3
